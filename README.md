@@ -16,11 +16,11 @@ I am currently developing **Showpur**, a trade network and financial operating p
 
 ## Technology Stack
 
-**Backend:** Python, Django, Django REST Framework
-**Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS, Vite
-**Database:** PostgreSQL
-**Security:** JWT Authentication, Role-Based Access Control, Business-Aware Permissions
-**Tools & Deployment:** Git, GitHub, VS Code, Railway, Vercel, Swagger/OpenAPI
+- **Backend:** Python, Django, Django REST Framework
+- **Frontend:** React, JavaScript, HTML5, CSS3, Tailwind CSS, Vite
+- **Database:** PostgreSQL
+- **Security:** JWT Authentication, Role-Based Access Control, Business-Aware Permissions
+- **Tools & Deployment:** Git, GitHub, VS Code, Railway, Vercel, Swagger/OpenAPI
 
 ## Featured Projects
 
@@ -76,7 +76,8 @@ I am also completing **Full Stack Web Development with Python, Django & React â€
 * Showpur: [showpur.com](https://showpur.com)
 * LinkedIn: [Md. Mahbubur Rahman](https://www.linkedin.com/in/md-mahbubur-rahman-612494131/)
 * YouTube: [@mahbub.finance](https://www.youtube.com/@mahbub.finance)
-* Email: [hello@mahbub.finance](mailto:hello@mahbub.finance)
+* Email: [hello@mahbub.finance](mailto:hello@mahbub.finance) Â· [mahbubsbe1112@gmail.com](mailto:mahbubsbe1112@gmail.com)
+
 
 ---
 
