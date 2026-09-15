@@ -2,7 +2,7 @@
 
 ### Founder & Product Builder at Showpur | Full-Stack Developer | SME Finance Strategist
 
-I combine **15+ years of banking and SME finance experience** with full-stack web development to build practical digital solutions for businesses.
+I bring more than 15 years of banking and SME finance experience, which informs how I design practical digital systems for SMEs.
 
 I am currently developing **Showpur**, a trade network and financial operating platform designed to help Bangladeshi CMSMEs manage products, business relationships, inventory, accounting, receivables, cashflow and trade credit.
 
